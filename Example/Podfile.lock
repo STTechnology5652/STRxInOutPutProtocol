@@ -1,0 +1,23 @@
+PODS:
+  - RxSwift (6.8.0)
+  - STRxInOutPutProtocol (0.0.1):
+    - RxSwift
+
+DEPENDENCIES:
+  - STRxInOutPutProtocol (from `../../STRxInOutPutProtocol`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - RxSwift
+
+EXTERNAL SOURCES:
+  STRxInOutPutProtocol:
+    :path: "../../STRxInOutPutProtocol"
+
+SPEC CHECKSUMS:
+  RxSwift: 4e28be97cbcfeee614af26d83415febbf2bf6f45
+  STRxInOutPutProtocol: 1eedc34dbaea40a49f6878cb3906a151d8a060b2
+
+PODFILE CHECKSUM: 65cca932d156e233fa2f7ced6b34119dc23e92ca
+
+COCOAPODS: 1.14.3
