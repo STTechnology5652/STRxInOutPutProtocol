@@ -7,12 +7,12 @@ Pod::Spec.new do |spec|
   STRxInOutPutProtocol long description of the pod here.
   DESC
 
-  spec.homepage         = 'http://github.com/defualt_author/STRxInOutPutProtocol'
+  spec.homepage         = 'https://github.com/STTechnology5652/STRxInOutPutProtocol.git'
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author             = { "defualt_author" => "defualt_email" }
   spec.ios.deployment_target = '9.0'
 
-  spec.source       = { :git => "http://github/defualt_author/STRxInOutPutProtocol.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/STTechnology5652/STRxInOutPutProtocol.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

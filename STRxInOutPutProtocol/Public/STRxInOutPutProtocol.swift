@@ -17,7 +17,7 @@ public protocol STViewModelProtocol {
     func transformInput(_ input: T) -> B
 }
 
-public protocol HYMvvmProtocol {
+public protocol STMvvmProtocol {
     associatedtype ViewModelType: STViewModelProtocol
     var vm: ViewModelType {get set}
     
